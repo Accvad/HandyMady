@@ -1,0 +1,26 @@
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.deps.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.csprojAssemblyReference.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.csproj.CoreCompileInputs.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.AssemblyInfoInputs.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.AssemblyInfo.cs
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.deps.json
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.csprojAssemblyReference.cache
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.AssemblyInfoInputs.cache
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.AssemblyInfo.cs
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.deps.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.csprojAssemblyReference.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.csproj.CoreCompileInputs.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.AssemblyInfoInputs.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.AssemblyInfo.cs
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb

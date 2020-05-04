@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vpash\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vpash\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Web-proj_Backend.680802365.00" t="ExcludeRecursive" />
+    <e p="C:\Users\vpash\Desktop\Web-proj_Backend" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Web-proj_Backend" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="AuthorizeController.cs" t="Include" />
+          <e p="PariController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="Middleware" t="Include">
+          <e p="ApiKey.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Web-proj_Backend.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Web-proj_Backend.csproj" t="IncludeRecursive" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="Web-proj_Backend.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataContext.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20200123113056_Test.cs" t="Include" />
+          <e p="20200123113056_Test.Designer.cs" t="Include" />
+          <e p="20200123114202_AddPariMigration.cs" t="Include" />
+          <e p="20200123114202_AddPariMigration.Designer.cs" t="Include" />
+          <e p="20200123120449_AddPariAndUsersMigration.cs" t="Include" />
+          <e p="20200123120449_AddPariAndUsersMigration.Designer.cs" t="Include" />
+          <e p="20200123120813_AddUsers.cs" t="Include" />
+          <e p="20200123120813_AddUsers.Designer.cs" t="Include" />
+          <e p="20200123120956_RenamePari.cs" t="Include" />
+          <e p="20200123120956_RenamePari.Designer.cs" t="Include" />
+          <e p="DataContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Web-proj_Backend.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="IPariRepository.cs" t="Include" />
+          <e p="IUserRepository.cs" t="Include" />
+          <e p="PariRepository.cs" t="Include" />
+          <e p="UserRepository.cs" t="Include" />
+        </e>
+        <e p="Web-proj_Backend.Data.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Web-proj_Backend.Domain" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Crypt.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Web-proj_Backend.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonContext.cs" t="Include" />
+        <e p="Web-proj_Backend.Domain.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Web-proj_Backend.Models" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="Pari.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Web-proj_Backend.Models.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Web-proj_Backend.Models.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Web-proj_Backend.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
