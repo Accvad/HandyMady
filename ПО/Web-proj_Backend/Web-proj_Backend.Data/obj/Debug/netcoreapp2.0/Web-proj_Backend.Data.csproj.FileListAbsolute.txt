@@ -55,3 +55,18 @@ D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ак
 D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.dll
 D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.pdb
 D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.genruntimeconfig.cache
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.deps.json
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.runtimeconfig.json
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.runtimeconfig.dev.json
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.dll
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.pdb
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.csprojAssemblyReference.cache
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.AssemblyInfoInputs.cache
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.AssemblyInfo.cs
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.csproj.CopyComplete
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.dll
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.pdb
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.0\Web-proj_Backend.Data.genruntimeconfig.cache

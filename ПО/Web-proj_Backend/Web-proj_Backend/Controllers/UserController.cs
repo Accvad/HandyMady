@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Web_proj_Backend.Data.Repositories;
+using Web_proj_Backend.Data.Interfaces;
 using Web_proj_Backend.Models.Entities;
 
 namespace Web_proj_Backend.Controllers
@@ -13,7 +13,7 @@ namespace Web_proj_Backend.Controllers
         {
             _userRepository = userRepository;
         }
-
+        #region GET
         [HttpGet]
         public IActionResult Get([FromQuery] int userId)
         {
@@ -21,12 +21,6 @@ namespace Web_proj_Backend.Controllers
             return Ok(new {success = true, message = user});
         }
 
-        [HttpPost("create")]
-        public IActionResult Add([FromBody] Users user)
-        {
-            _userRepository.Add(user);
-            return Ok(new {success = true, message = "success"});
-        }
 
         [HttpGet("remove")]
         public IActionResult Remove([FromQuery] int userId)
@@ -40,6 +34,16 @@ namespace Web_proj_Backend.Controllers
             var user = _userRepository.GetByToken(token);
             return Ok(new { success = true, message = user});
         }
+        #endregion
+        #region POST
 
+        [HttpPost("create")]
+        public IActionResult Add([FromBody] Users user)
+        {
+            _userRepository.Add(user);
+            return Ok(new { success = true, message = "success" });
+        }
+
+        #endregion
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ox3eK6Or1clq7BrM4KtfQDR9WT8ivc2LRbQjmgUXzj1aI9+YitQJAO3e9zepu3BgwPXPXu8PygEw4lJLFedykg==",
+  "dgSpecHash": "SEm40pA0W2A3DYqbCxtOCq5qHJlW40HoZvzEWvaYFZcQiqtjP69g78iroRqC2H7UtLqM+TRCOMu9Wqlq9f0ISw==",
   "success": true,
-  "projectFilePath": "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend\\Web-proj_Backend.csproj",
+  "projectFilePath": "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend\\Web-proj_Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Assas\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\Assas\\.nuget\\packages\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",

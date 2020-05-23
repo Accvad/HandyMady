@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using Web_proj_Backend.Data.Interfaces;
 using Web_proj_Backend.Models.Entities;
 
 namespace Web_proj_Backend.Data.Repositories
@@ -13,12 +14,11 @@ namespace Web_proj_Backend.Data.Repositories
         }
 
         /// <summary>
-        /// Получение пользователя по айди
+        /// Получение пользователя по id
         /// </summary>
         public Users GetById(int id)
         {
-            var user = _context.Users.FirstOrDefault(u => u.Id == id);
-            return user;
+            return _context.Users.FirstOrDefault(u => u.Id == id);             
         }
 
         /// <summary>

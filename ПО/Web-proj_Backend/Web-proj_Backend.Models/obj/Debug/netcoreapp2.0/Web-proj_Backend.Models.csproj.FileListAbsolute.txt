@@ -33,3 +33,11 @@ D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ак
 D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.AssemblyInfo.cs
 D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
 D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.deps.json
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Models\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.AssemblyInfoInputs.cache
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.AssemblyInfo.cs
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Models\obj\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb

@@ -681,11 +681,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\Web-proj_Backend.Models.csproj",
+      "projectUniqueName": "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\Web-proj_Backend.Models.csproj",
       "projectName": "Web-proj_Backend.Models",
-      "projectPath": "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\Web-proj_Backend.Models.csproj",
+      "projectPath": "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\Web-proj_Backend.Models.csproj",
       "packagesPath": "C:\\Users\\Assas\\.nuget\\packages\\",
-      "outputPath": "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\obj\\",
+      "outputPath": "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Assas\\AppData\\Roaming\\NuGet\\NuGet.Config",

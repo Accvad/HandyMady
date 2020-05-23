@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QFSpc/qWn/2kYkdEEh0iCQEaii+ZyjtncqNDmT33Eqf6yHNDSbPsz1jV+dspfkZepA28cymuiBkshVNvaNmVAg==",
+  "dgSpecHash": "OiZaT45WhcxqjVBzhGHalSNsmdixY1y90Dy1Fr9rATGk/3TJsGA4Q7DYWNhLnMhEKy6Vr2qwU1y+iNj8geOK9g==",
   "success": true,
-  "projectFilePath": "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\Web-proj_Backend.Models.csproj",
+  "projectFilePath": "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\Web-proj_Backend.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Assas\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\Assas\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",

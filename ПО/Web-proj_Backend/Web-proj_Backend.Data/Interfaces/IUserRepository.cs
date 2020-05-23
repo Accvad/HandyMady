@@ -1,6 +1,6 @@
 ﻿using Web_proj_Backend.Models.Entities;
 
-namespace Web_proj_Backend.Data.Repositories
+namespace Web_proj_Backend.Data.Interfaces
 {
     public interface IUserRepository
     {

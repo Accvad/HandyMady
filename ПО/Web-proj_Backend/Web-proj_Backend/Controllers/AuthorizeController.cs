@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Web_proj_Backend.Data;
-using Web_proj_Backend.Data.Repositories;
+using Web_proj_Backend.Data.Interfaces;
 using Web_proj_Backend.Domain;
 using Web_proj_Backend.Models.Entities;
 
@@ -19,7 +19,31 @@ namespace Web_proj_Backend.Controllers
             _userRepository = userRepository;
             _context = context;
         }
+        #region GET
+        [HttpGet(nameof(UserExitById))]
+        public IActionResult UserExitById([FromQuery]int userId)
+        {
+            var user = _userRepository.GetById(userId);
+            if (user == null)
+                return Ok(new { success = false, message = "Не удается найти пользователя" });
 
+            user.Token = null;
+            _context.SaveChanges();
+            return Ok(new { success = true, message = "Пользователь успешно вышел" });
+        }
+        [HttpGet(nameof(UserExitByToken))]
+        public IActionResult UserExitByToken([FromQuery]string token)
+        {
+            var user = _userRepository.GetByToken(token);
+            if (user == null)
+                return Ok(new { success = false, message = "Не удается найти пользователя" });
+
+            user.Token = null;
+            _context.SaveChanges();
+            return Ok(new { success = true, message = "Пользователь успешно вышел" });
+        }
+        #endregion
+        #region POST
         [HttpPost(nameof(Registration))]
         public IActionResult Registration([FromBody] Users userVm)
         {
@@ -57,28 +81,7 @@ namespace Web_proj_Backend.Controllers
             _context.SaveChanges();
             return Ok(new {success = true, message = "Пользователь авторизирован. Токен: " + user.Token});
         }
+        #endregion
 
-        [HttpGet(nameof(UserExitById))]
-        public IActionResult UserExitById([FromQuery]int userId)
-        {
-            var user = _userRepository.GetById(userId);
-            if (user == null)
-                return Ok(new { success = false, message = "Не удается найти пользователя" });
-
-            user.Token = null;
-            _context.SaveChanges();
-            return Ok(new { success = true, message = "Пользователь успешно вышел" });
-        }
-        [HttpGet(nameof(UserExitByToken))]
-        public IActionResult UserExitByToken([FromQuery]string token)
-        {
-            var user = _userRepository.GetByToken(token);
-            if(user == null)
-                return Ok(new { success = false, message = "Не удается найти пользователя" });
-
-            user.Token = null;
-            _context.SaveChanges();
-            return Ok(new { success = true, message = "Пользователь успешно вышел" });
-        }
     }
 }

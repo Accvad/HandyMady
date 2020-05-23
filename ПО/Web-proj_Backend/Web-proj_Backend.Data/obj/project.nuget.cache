@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K0dwsz3mC0pxEVr+czphrJ1V+hObaG+CLqNxly1PQVtfjPtYfuP/GvO+JKb5nIzxYkCF+d7dThUkg0D1aqf6/Q==",
+  "dgSpecHash": "fXg4jKG0D4/TKoZ+g1aP9nFS4zb9njxzWk8Bxata1l6yhyjQNYrlCCkNFDFru08KypH+Cygm14JRBeg7Oa17/g==",
   "success": true,
-  "projectFilePath": "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend.Data\\Web-proj_Backend.Data.csproj",
+  "projectFilePath": "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend.Data\\Web-proj_Backend.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Assas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Assas\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.4\\microsoft.entityframeworkcore.2.1.4.nupkg.sha512",

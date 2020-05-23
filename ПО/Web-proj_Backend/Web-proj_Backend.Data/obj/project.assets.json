@@ -3332,11 +3332,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend.Data\\Web-proj_Backend.Data.csproj",
+      "projectUniqueName": "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend.Data\\Web-proj_Backend.Data.csproj",
       "projectName": "Web-proj_Backend.Data",
-      "projectPath": "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend.Data\\Web-proj_Backend.Data.csproj",
+      "projectPath": "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend.Data\\Web-proj_Backend.Data.csproj",
       "packagesPath": "C:\\Users\\Assas\\.nuget\\packages\\",
-      "outputPath": "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend.Data\\obj\\",
+      "outputPath": "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Assas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3352,8 +3352,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\Web-proj_Backend.Models.csproj": {
-              "projectPath": "D:\\0.Vadim.0\\Учеба\\БАМ\\Последний чаптер\\Диплом ака Deepлом алсо ноун эз Dickлом\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\Web-proj_Backend.Models.csproj"
+            "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\Web-proj_Backend.Models.csproj": {
+              "projectPath": "D:\\Projects\\GitHub\\HandyMady\\ПО\\Web-proj_Backend\\Web-proj_Backend.Models\\Web-proj_Backend.Models.csproj"
             }
           }
         }
