@@ -1,6 +1,0 @@
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Data\bin\Debug\netcoreapp2.1\Web-proj_Backend.Data.deps.json
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Data\bin\Debug\netcoreapp2.1\Web-proj_Backend.Data.dll
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.1\Web-proj_Backend.Data.csprojAssemblyReference.cache
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.1\Web-proj_Backend.Data.csproj.CoreCompileInputs.cache
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.1\Web-proj_Backend.Data.AssemblyInfoInputs.cache
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend.Data\obj\Debug\netcoreapp2.1\Web-proj_Backend.Data.AssemblyInfo.cs

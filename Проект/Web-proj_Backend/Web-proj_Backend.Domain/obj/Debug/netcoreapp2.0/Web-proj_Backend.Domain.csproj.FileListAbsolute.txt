@@ -1,9 +1,0 @@
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Domain\bin\Debug\netcoreapp2.0\Web-proj_Backend.Domain.deps.json
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Domain\bin\Debug\netcoreapp2.0\Web-proj_Backend.Domain.dll
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Domain\bin\Debug\netcoreapp2.0\Web-proj_Backend.Domain.pdb
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Domain\obj\Debug\netcoreapp2.0\Web-proj_Backend.Domain.csprojAssemblyReference.cache
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Domain\obj\Debug\netcoreapp2.0\Web-proj_Backend.Domain.csproj.CoreCompileInputs.cache
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Domain\obj\Debug\netcoreapp2.0\Web-proj_Backend.Domain.AssemblyInfoInputs.cache
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Domain\obj\Debug\netcoreapp2.0\Web-proj_Backend.Domain.AssemblyInfo.cs
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Domain\obj\Debug\netcoreapp2.0\Web-proj_Backend.Domain.dll
-D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend.Domain\obj\Debug\netcoreapp2.0\Web-proj_Backend.Domain.pdb
