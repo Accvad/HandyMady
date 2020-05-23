@@ -25,8 +25,14 @@ namespace Web_proj_Backend
         {
             services.AddScoped<PersonContext>();
             services.AddScoped<IUserRepository, UserRepository>();
-            
-            
+            services.AddScoped<IPurchaseRepository, PurchaseRepository>();
+            services.AddScoped<IPositionsRepository, PositionsRepository>();
+            services.AddScoped<ISubscriptionsRepository, SubscriptionsRepository>();
+            services.AddScoped<IStoresRepository, StoresRepository>();
+            services.AddScoped<IGoodsRepository, GoodsRepository>();
+            services.AddScoped<ISalesRepository, SalesRepository>();
+
+
             services.AddDbContext<DataContext>(
                 options => options.UseNpgsql("Server=localhost;" +
                                              "UserId=Accvad;" +

@@ -5,7 +5,7 @@ namespace Web_proj_Backend.Data.Interfaces
     public interface IUserRepository
     {
         /// <summary>
-        /// Получение пользователя по айди
+        /// Получение пользователя по id
         /// </summary>
         Users GetById(int id);
         /// <summary>

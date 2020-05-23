@@ -19,6 +19,7 @@ D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ак
 D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Domain\bin\Debug\netcoreapp2.0\Web-proj_Backend.Domain.deps.json
 D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Domain\bin\Debug\netcoreapp2.0\Web-proj_Backend.Domain.dll
 D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Domain\bin\Debug\netcoreapp2.0\Web-proj_Backend.Domain.pdb
+D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Domain\obj\Debug\netcoreapp2.0\Web-proj_Backend.Domain.csprojAssemblyReference.cache
 D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Domain\obj\Debug\netcoreapp2.0\Web-proj_Backend.Domain.csproj.CoreCompileInputs.cache
 D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Domain\obj\Debug\netcoreapp2.0\Web-proj_Backend.Domain.AssemblyInfoInputs.cache
 D:\Projects\GitHub\HandyMady\ПО\Web-proj_Backend\Web-proj_Backend.Domain\obj\Debug\netcoreapp2.0\Web-proj_Backend.Domain.AssemblyInfo.cs
