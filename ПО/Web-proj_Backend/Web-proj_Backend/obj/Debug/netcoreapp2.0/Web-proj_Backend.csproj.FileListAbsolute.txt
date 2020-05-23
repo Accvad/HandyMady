@@ -1,0 +1,78 @@
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.deps.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.runtimeconfig.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.runtimeconfig.dev.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csprojAssemblyReference.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csproj.CoreCompileInputs.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.AssemblyInfoInputs.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.AssemblyInfo.cs
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\backend\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csproj.CopyComplete
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.deps.json
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.runtimeconfig.json
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.runtimeconfig.dev.json
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.dll
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.pdb
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.dll
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.pdb
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csprojAssemblyReference.cache
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.AssemblyInfoInputs.cache
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.AssemblyInfo.cs
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csproj.CopyComplete
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.dll
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.pdb
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\vpash\Desktop\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.deps.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.runtimeconfig.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.runtimeconfig.dev.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Domain.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Domain.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csprojAssemblyReference.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csproj.CoreCompileInputs.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.AssemblyInfoInputs.cache
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.AssemblyInfo.cs
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csproj.CopyComplete
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.dll
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.pdb
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\appsettings.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\0.Vadim.0\Учеба\БАМ\Четвертый чаптер\web\3\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.genruntimeconfig.cache
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\appsettings.json
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.deps.json
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.runtimeconfig.json
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.runtimeconfig.dev.json
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.dll
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.pdb
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.dll
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Domain.dll
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.dll
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Data.pdb
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Domain.pdb
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\bin\Debug\netcoreapp2.0\Web-proj_Backend.Models.pdb
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csprojAssemblyReference.cache
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csproj.CoreCompileInputs.cache
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.AssemblyInfoInputs.cache
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.AssemblyInfo.cs
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.csproj.CopyComplete
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.dll
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.pdb
+D:\0.Vadim.0\Учеба\БАМ\Последний чаптер\Диплом ака Deepлом алсо ноун эз Dickлом\ПО\Web-proj_Backend\Web-proj_Backend\obj\Debug\netcoreapp2.0\Web-proj_Backend.genruntimeconfig.cache
