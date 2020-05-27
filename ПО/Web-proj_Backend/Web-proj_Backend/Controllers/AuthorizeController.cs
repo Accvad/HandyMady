@@ -2,17 +2,18 @@
 using Web_proj_Backend.Data;
 using Web_proj_Backend.Data.Interfaces;
 using Web_proj_Backend.Domain;
+using Web_proj_Backend.Models;
 using Web_proj_Backend.Models.Entities;
 
 namespace Web_proj_Backend.Controllers
 {
     [Route("api/[controller]")]
-    public class AzuthorizeController : Controller
+    public class AuthorizeController : Controller
     {
         private readonly IUserRepository _userRepository;
         private readonly DataContext _context;
 
-        public AzuthorizeController(
+        public AuthorizeController(
             IUserRepository userRepository,
             DataContext context)
         {
@@ -45,7 +46,7 @@ namespace Web_proj_Backend.Controllers
         #endregion
         #region POST
         [HttpPost(nameof(Registration))]
-        public IActionResult Registration([FromBody] Users userVm)
+        public IActionResult Registration([FromBody] UsersVM userVm)
         {
             if (string.IsNullOrEmpty(userVm.Login) || string.IsNullOrEmpty(userVm.Password))
                 return Ok(new {success = false, message = "Недопустимый формат"});
@@ -63,7 +64,7 @@ namespace Web_proj_Backend.Controllers
                 Token = Crypt.GenerateToken(userVm.Login)
             };
             _userRepository.Add(user);
-            return Ok(new {success = true, message = "Пользователь зарегестрирован. Токен: " + user.Token});
+            return Ok(new {success = true, message = "Пользователь зарегистрирован", token = user.Token});
         }
 
         [HttpPost(nameof(Authorize))]
@@ -79,7 +80,7 @@ namespace Web_proj_Backend.Controllers
 
             user.Token = Crypt.GenerateToken(user.Login);
             _context.SaveChanges();
-            return Ok(new {success = true, message = "Пользователь авторизирован. Токен: " + user.Token});
+            return Ok(new {success = true, message = "Пользователь авторизирован.", token = user.Token });
         }
         #endregion
 

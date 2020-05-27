@@ -22,3 +22,6 @@ namespace Web_proj_Backend.Models.Entities
 
     }
 }
+
+
+    

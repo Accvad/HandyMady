@@ -15,7 +15,6 @@ namespace Web_proj_Backend.Data.Repositories
         {
             _context = context;
         }
-
         public Stores GetById(int id)
         {
             return _context.Stores.FirstOrDefault(p => p.Id == id);

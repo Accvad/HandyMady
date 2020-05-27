@@ -20,6 +20,8 @@ namespace Web_proj_Backend
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
+                .UseKestrel()
+                .UseUrls("http://localhost:5100", "http://*:5102")
                 .Build();
     }
 }

@@ -14,7 +14,7 @@ namespace Web_proj_Backend.Controllers
             _userRepository = userRepository;
         }
         #region GET
-        [HttpGet]
+        [HttpGet(nameof(Get))]
         public IActionResult Get([FromQuery] int userId)
         {
             var user = _userRepository.GetById(userId);
@@ -22,13 +22,13 @@ namespace Web_proj_Backend.Controllers
         }
 
 
-        [HttpGet("remove")]
+        [HttpGet(nameof(Remove))]
         public IActionResult Remove([FromQuery] int userId)
         {
             _userRepository.RemoveById(userId);
             return Ok(new {success = true, message = "success"});
         }
-        [HttpGet("findWithTok")]
+        [HttpGet(nameof(FindWithTok))]
         public IActionResult FindWithTok([FromQuery] string token)
         {
             var user = _userRepository.GetByToken(token);
@@ -37,7 +37,7 @@ namespace Web_proj_Backend.Controllers
         #endregion
         #region POST
 
-        [HttpPost("create")]
+        [HttpPost(nameof(Add))]
         public IActionResult Add([FromBody] Users user)
         {
             _userRepository.Add(user);

@@ -8,7 +8,7 @@ namespace Web_proj_Backend.Models.Entities
     {
         public int Id { get; set; }
         public int StoreId { get; set; }
-        public string Sale_name { get; set; }
+        public string Good_name { get; set; }
         public string Description { get; set; }
         public int Type { get; set; }
         public int Amount { get; set; }
@@ -20,3 +20,6 @@ namespace Web_proj_Backend.Models.Entities
         public Stores Store { get; set; }
     }
 }
+
+
+

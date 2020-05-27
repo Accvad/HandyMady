@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Remotion.Linq.Utilities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,6 +15,23 @@ namespace Web_proj_Backend.Data.Repositories
         {
             _context = context;
         }
+        public List<Goods> GetAllGoodsFromStoreById(int id)
+        {
+            var store = _context.Stores.FirstOrDefault(p => p.Id == id);
+            if (store == null)
+            {
+                return null;
+            }
+
+            var allGoods = _context.Goods.Where(g => g.StoreId == store.Id).ToList();
+            return allGoods;
+        }
+        public List<Goods> SearchAllGoodsFromStoreByString(string searchName)
+        {
+            var allGoods = _context.Goods.Where(g => g.Good_name.Contains(searchName)).ToList();
+            return allGoods;
+        }
+
         public Goods GetById(int id)
         {
             return _context.Goods.FirstOrDefault(p => p.Id == id);
